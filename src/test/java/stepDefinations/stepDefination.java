@@ -26,6 +26,13 @@ public class stepDefination {
 	  System.out.println("deciding the browser to open");
 	  System.out.println("123");
 	  System.out.println("123");
+	  System.out.println("123");
+	  System.out.println("123");
+	  System.out.println("123");
+	  System.out.println("123");
+	  System.out.println("123");
+	  System.out.println("123");
+	  
 
   }
 
